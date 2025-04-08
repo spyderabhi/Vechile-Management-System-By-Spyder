@@ -1,5 +1,5 @@
 # Vehicle Management System
-A vehicle management system to enable better interaction between Customers and Dealers. Designed using Eclipse WindowBuilder in Java. Part of my Semester 3 OOPM Project. Made in October 2019.
+A vehicle management system to enable better interaction between Customers and Dealers. Designed using Eclipse WindowBuilder in Java. 
 
 ### About:
 Dealers can add and delete their own vehicles and also manage requests sent by Customers for a particular Vehicle. Customers on the other hand can view and find vehicles and then choose to order any vehicle they want. If order is accepted by Dealer then they can purchase the vehicle. Normal users can also view all the vehicles in the system. Dealer and Customer can delete or view their account at anytime using login and signup system. Current implementation does not include any database or file based storing system, so all data added will be closed when application is closed.
